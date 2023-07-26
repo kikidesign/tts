@@ -4,7 +4,6 @@ https://github.com/OS984/DiscordBotBackend/blob/3b06b8be39e4dbc07722b0afefeee4c1
 https://github.com/rany2/edge-tts/blob/master/src/edge_tts/communicate.py
 '''
 
-
 import websockets
 import asyncio
 from datetime import datetime
@@ -119,4 +118,4 @@ if __name__ == "__main__":
     asyncio.get_event_loop().run_until_complete(mainSeq(SSML_text, output_path))
     print('completed')
     # python tts.py --input SSML.xml
-    # python tts.py --input SSML.xml --output 保存文件名
+    # python tts.py --input SSML.xml --output 保存文件名.mp3
