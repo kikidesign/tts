@@ -1,0 +1,9 @@
+<speak xmlns="http://www.w3.org/2001/10/synthesis" xmlns:mstts="http://www.w3.org/2001/mstts" xmlns:emo="http://www.w3.org/2009/10/emotionml" version="1.0" xml:lang="en-US">
+    <voice name="zh-CN-shaanxi-XiaoniNeural">
+        <prosody rate="0%" pitch="0%">
+        早发白帝城
+朝辞白帝彩云间，千里江陵一日还。
+两岸猿声啼不住，轻舟已过万重山。
+        </prosody>
+    </voice>
+</speak>
